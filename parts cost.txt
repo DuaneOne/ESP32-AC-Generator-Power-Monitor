@@ -1,0 +1,12 @@
+
+
+ESP32-PICO-KIT V4 microcontroller module:                   $11
+
+sct-013-030 split core current sensors, x2:                 $18
+
+resistors, capacitors, stereo phono jacks, standard house outlet box (blue), cover:             $4
+
+5VDC USB wall adapter, microUSB cable:                          $2
+
+                                                     -------------
+Total parts:                                               $35
